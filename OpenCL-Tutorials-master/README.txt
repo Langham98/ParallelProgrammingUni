@@ -1,0 +1,1 @@
+The assessment solution can be found in 'Tutorial 2' folder. Inside are all of the images in a folder, and the .cpp and .cl code.
